@@ -1,9 +1,9 @@
-package controller;
+package br.edu.nassau.backendframeworks.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import service.CursoService;
+import br.edu.nassau.backendframeworks.service.CursoService;
 
 @RestController
 @RequestMapping("cursos")

@@ -1,4 +1,4 @@
-package service;
+package br.edu.nassau.backendframeworks.service;
 
 import org.springframework.stereotype.Service;
 
